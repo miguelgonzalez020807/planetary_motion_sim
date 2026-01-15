@@ -1,4 +1,3 @@
-# planetary_motion_sim
 # Planetary Motion Simulator
 
 This project simulates the motion of multiple celestial bodies under their gravitational attraction using Newton's laws of gravitation. The motion is computed by numerically integrating the constant-acceleration equations of motion and visualising the resulting trajectories. Created on Matlab.
